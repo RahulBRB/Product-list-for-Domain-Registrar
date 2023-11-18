@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "name": "Premium Web Hosting",
+      "description": "Everything you need to create a basic website.",
+      "price": 2.99,
+      "currency": "USD",
+      "duration": "1 month"
+    },
+    {
+      "name": "Business Web Hosting",
+      "description": "Level-up with more power and enhanced features.",
+      "price": 3.99,
+      "currency": "USD",
+      "duration": "1 month"
+    },
+    {
+      "name": "Cloud Startup Web Hosting",
+      "description": "Enjoy optimized performance & dedicated resources.",
+      "price": 8.99,
+      "currency": "USD",
+      "duration": "1 month"
+    }
+  ]
+}
